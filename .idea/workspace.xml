@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44cc621e-4702-4ba1-a53e-e1bb0397b7b5" name="Changes" comment="Guess the number">
-      <change beforePath="$PROJECT_DIR$/Day_12/Day_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_12/Day_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_13/Day_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Day_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_12/Day_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_13/Day_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day_12" />
+        <item itemvalue="Python.Day_13" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658403600829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Guess the number">
+      <created>1658403911359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658403911359</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
