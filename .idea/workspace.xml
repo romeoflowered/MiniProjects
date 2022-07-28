@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Higher-lower">
+      <change afterPath="$PROJECT_DIR$/Day_15/Day_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_15/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2C1kNQLJACYfwFAmuyBKeW3pGzH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +43,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Day_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_13/Day_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_15/Day_15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,14 +66,14 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day_13" />
+        <item itemvalue="Python.Day_15" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44cc621e-4702-4ba1-a53e-e1bb0397b7b5" name="Changes" comment="" />
+      <changelist id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Higher-lower" />
       <created>1657977437264</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -93,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659013634749</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Higher-lower">
+      <created>1659014348858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659014348858</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,8 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Guess the number" />
-    <MESSAGE value="Higher-lower" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Higher-lower" />
+    <option name="LAST_COMMIT_MESSAGE" value="Higher-lower" />
   </component>
 </project>
