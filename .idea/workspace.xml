@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44cc621e-4702-4ba1-a53e-e1bb0397b7b5" name="Changes" comment="DEBUGGING">
-      <change afterPath="$PROJECT_DIR$/Day_14/Day_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_14/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_14/game_date.py" afterDir="false" />
+    <list default="true" id="44cc621e-4702-4ba1-a53e-e1bb0397b7b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658669269027</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DEBUGGING">
+      <created>1659013098323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659013098323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Guess the number" />
+    <MESSAGE value="Higher-Lower" />
     <MESSAGE value="DEBUGGING" />
     <option name="LAST_COMMIT_MESSAGE" value="DEBUGGING" />
   </component>
