@@ -1,0 +1,54 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"88658130-0efc-49fa-897f-255fb7122e72\" name=\"Changes\" comment=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2C1kNQLJACYfwFAmuyBKeW3pGzH\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/roman/Documents/GitHub/100DaysOfCode&quot;\n  }\n}</component>\n  <component name=\"RunManager\">\n    <configuration name=\"Day_13\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"100DaysOfCode\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Day_13\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Day_13/Day_13.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.Day_13\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"44cc621e-4702-4ba1-a53e-e1bb0397b7b5\" name=\"Changes\" comment=\"\" />\n      <created>1657977437264</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1657977437264</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Guess the number\">\n      <created>1658403600829</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1658403600829</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Guess the number\">\n      <created>1658403911359</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1658403911359</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml\">\n      <created>1659013634749</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659013634749</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Guess the number\" />\n    <MESSAGE value=\"Higher-lower\" />\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8609bf2a3cd29831b33d844f19e505bd25137a23)
++++ b/.idea/workspace.xml	(date 1659014075628)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
++    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Higher-lower" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -93,7 +93,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1659013634749</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Higher-lower">
++      <created>1659013818739</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1659013818740</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Higher-lower">
++      <created>1659014067827</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1659014067827</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -109,8 +123,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Guess the number" />
++    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+     <MESSAGE value="Higher-lower" />
+-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
++    <option name="LAST_COMMIT_MESSAGE" value="Higher-lower" />
+   </component>
+ </project>
+\ No newline at end of file
