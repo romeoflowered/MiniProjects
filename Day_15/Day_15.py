@@ -1,4 +1,5 @@
 from menu import MENU, resources, profit
+# Hard lvl
 
 
 def is_resource_sufficient(order_ingredients):
@@ -57,5 +58,3 @@ while is_on:
             payment = process_coins()
             if is_transaction_successful(payment, drink["cost"]):
                 make_coffee(choice, drink["ingredients"])
-
-
