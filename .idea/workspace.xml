@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Coffee-Machine">
-      <change afterPath="$PROJECT_DIR$/Day_16/Day_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/money_machine.py" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Coffee-Machine with el OOP">
+      <change afterPath="$PROJECT_DIR$/Day_17/Day_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_17/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_17/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_17/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,20 +51,17 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Day_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Day_17">
+    <configuration name="Day_17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_16/Day_16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_17/Day_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,9 +70,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_17/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Day_17" />
+      <item itemvalue="Python.data" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day_16" />
+        <item itemvalue="Python.Day_17" />
+        <item itemvalue="Python.data" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659454769840</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Coffee-Machine with el OOP">
+      <created>1659892599798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659892599798</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +180,18 @@
     <MESSAGE value="Higher-lower" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Coffee-Machine" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coffee-Machine" />
+    <MESSAGE value="Coffee-Machine with el OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coffee-Machine with el OOP" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
