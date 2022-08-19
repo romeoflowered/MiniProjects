@@ -57,8 +57,8 @@
       <recent name="$PROJECT_DIR$/Day_18" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day_20">
-    <configuration name="Day_20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Day20-Day21">
+    <configuration name="Day20-Day21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_20/Day_20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_20/Day20-Day21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,12 +101,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day_20" />
+      <item itemvalue="Python.Day20-Day21" />
       <item itemvalue="Python.data" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day_20" />
+        <item itemvalue="Python.Day20-Day21" />
         <item itemvalue="Python.data" />
       </list>
     </recent_temporary>
