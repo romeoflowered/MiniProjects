@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Pong">
-      <change afterPath="$PROJECT_DIR$/Day_23/Day_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_23/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_23/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_23/scoreboard.py" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="The Turtle Crossing Capstone Project">
+      <change afterPath="$PROJECT_DIR$/Day_24/Day_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +57,8 @@
       <recent name="$PROJECT_DIR$/Day_18" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day_23">
-    <configuration name="Day_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Day_24">
+    <configuration name="Day_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_24" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_23/Day_23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_24/Day_24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,12 +101,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day_23" />
+      <item itemvalue="Python.Day_24" />
       <item itemvalue="Python.data" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day_23" />
+        <item itemvalue="Python.Day_24" />
         <item itemvalue="Python.data" />
       </list>
     </recent_temporary>
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661188102664</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="The Turtle Crossing Capstone Project">
+      <created>1661431404095</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661431404095</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,7 +252,8 @@
     <MESSAGE value="Turtle Racing" />
     <MESSAGE value="Snake Game" />
     <MESSAGE value="Pong" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pong" />
+    <MESSAGE value="The Turtle Crossing Capstone Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Turtle Crossing Capstone Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
