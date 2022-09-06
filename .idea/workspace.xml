@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Update Snake Game">
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Update Snake Game and Project File Mail">
+      <change afterPath="$PROJECT_DIR$/Day_25/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_24/Mail Merge Project Start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_25" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_24/Mail Merge Project Start/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_25/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,8 +228,18 @@
       <option name="project" value="LOCAL" />
       <updated>1662308715110</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Update Snake Game and Project File Mail">
+      <created>1662312437923</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662312437923</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -256,7 +267,8 @@
     <MESSAGE value="Pong" />
     <MESSAGE value="The Turtle Crossing Capstone Project" />
     <MESSAGE value="Update Snake Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Snake Game" />
+    <MESSAGE value="Update Snake Game and Project File Mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Snake Game and Project File Mail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
