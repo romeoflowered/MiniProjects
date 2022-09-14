@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Password  Manager GUI App with Tkinter">
-      <change afterPath="$PROJECT_DIR$/Day_30/main.py" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Update:&#10;Exception Handling in the NATO Alphabet Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day_30/Update NATO Alphabet" />
       <recent name="$PROJECT_DIR$/Day_18" />
     </key>
   </component>
@@ -65,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_30/Update Password Manager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_30/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_30/Update Password Manager/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +254,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663086510318</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update:&#10;Exception Handling in the NATO Alphabet Project">
+      <created>1663159585710</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1663159585710</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update:&#10;Exception Handling in the NATO Alphabet Project">
+      <created>1663159775540</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1663159775540</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -292,7 +306,8 @@
     <MESSAGE value="Mile to Kilometers Converter Project" />
     <MESSAGE value="Pomodoro" />
     <MESSAGE value="Password  Manager GUI App with Tkinter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Password  Manager GUI App with Tkinter" />
+    <MESSAGE value="Update:&#10;Exception Handling in the NATO Alphabet Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update:&#10;Exception Handling in the NATO Alphabet Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

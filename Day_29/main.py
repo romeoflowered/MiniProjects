@@ -33,7 +33,7 @@ def save():
     password = entry_password.get()
 
     if len(website) == 0 or len(password) == 0:
-        messagebox.showerror(title="Oops", message="Please don't leave any fields empty!")
+        messagebox.showinfo(title="Oops", message="Please don't leave any fields empty!")
     else:
         is_ok = messagebox.askokcancel(title=website, message=f"These are the details entered: \nEmail: {email}"
                                                               f"\nPassword: {password} \nIs it ok to save?")
