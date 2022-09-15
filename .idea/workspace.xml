@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Update:&#10;Exception Handling in the NATO Alphabet Project">
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Update PM">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663159775540</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Update PM">
+      <created>1663160362029</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1663160362029</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -307,7 +314,8 @@
     <MESSAGE value="Pomodoro" />
     <MESSAGE value="Password  Manager GUI App with Tkinter" />
     <MESSAGE value="Update:&#10;Exception Handling in the NATO Alphabet Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update:&#10;Exception Handling in the NATO Alphabet Project" />
+    <MESSAGE value="Update PM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update PM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
