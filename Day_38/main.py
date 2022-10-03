@@ -2,10 +2,10 @@ import requests
 from datetime import datetime
 import os
 
-GENDER = YOUR GENDER
-WEIGHT_KG = YOUR WEIGHT
-HEIGHT_CM = YOUR HEIGHT
-AGE = YOUR AGE
+# GENDER = YOUR GENDER
+# WEIGHT_KG = YOUR WEIGHT
+# HEIGHT_CM = YOUR HEIGHT
+# AGE = YOUR AGE
 
 APP_ID = os.environ["NT_APP_ID"]
 API_KEY = os.environ["NT_API_KEY"]

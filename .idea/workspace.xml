@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Habit Tracking Project">
-      <change afterPath="$PROJECT_DIR$/Day_38/main.py" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Workout Tracking Using Google Sheets">
+      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/inner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/notification_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_38/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_38/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +53,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/roman/Documents/GitHub/100DaysOfCode/Day_37",
+    "last_opened_file_path": "/Users/roman/Documents/GitHub/100DaysOfCode/Day_40",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day_40" />
+      <recent name="$PROJECT_DIR$/Day_39" />
       <recent name="$PROJECT_DIR$/Day_37" />
       <recent name="$PROJECT_DIR$/Day_36" />
     </key>
@@ -64,7 +72,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_38" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_39" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_38/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_39/inner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.inner" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664633385959</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Workout Tracking Using Google Sheets">
+      <created>1664712659542</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1664712659542</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -370,7 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OOP-Game(The Quiz Project)" />
     <MESSAGE value="The Hirst Painting Project" />
     <MESSAGE value="The Hirst Painting Project (GUI)" />
     <MESSAGE value="Turtle Racing" />
@@ -395,7 +409,8 @@
     <MESSAGE value="Rain Alert" />
     <MESSAGE value="Stock Trading News Alert Project" />
     <MESSAGE value="Habit Tracking Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Habit Tracking Project" />
+    <MESSAGE value="Workout Tracking Using Google Sheets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workout Tracking Using Google Sheets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
