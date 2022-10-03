@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Workout Tracking Using Google Sheets">
-      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/flight_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/inner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39 - Day_40/notification_manager.py" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Flight Club with SMS and Email letter">
+      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/contact-me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_38/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_38/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -51,28 +49,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/roman/Documents/GitHub/100DaysOfCode/Day_40",
+    "last_opened_file_path": "/Users/roman/Documents/GitHub/100DaysOfCode/Day_41/HTML - Personal Site",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day_41/HTML - Personal Site" />
       <recent name="$PROJECT_DIR$/Day_40" />
       <recent name="$PROJECT_DIR$/Day_39" />
       <recent name="$PROJECT_DIR$/Day_37" />
       <recent name="$PROJECT_DIR$/Day_36" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day_41/HTML - Personal Site/images" />
+      <recent name="$PROJECT_DIR$/Day_41/HTML - Personal Site" />
       <recent name="$PROJECT_DIR$/Day_33/Overhead notiffier project" />
       <recent name="$PROJECT_DIR$/Day_33/kanye_quote" />
       <recent name="$PROJECT_DIR$/Day_30/Update NATO Alphabet" />
-      <recent name="$PROJECT_DIR$/Day_18" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="inner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_39" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_41" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_39/inner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_41/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.inner" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664712659542</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Flight Club with SMS and Email letter">
+      <created>1664791506559</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1664791506559</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -385,7 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The Hirst Painting Project" />
     <MESSAGE value="The Hirst Painting Project (GUI)" />
     <MESSAGE value="Turtle Racing" />
     <MESSAGE value="Snake Game" />
@@ -410,7 +417,8 @@
     <MESSAGE value="Stock Trading News Alert Project" />
     <MESSAGE value="Habit Tracking Project" />
     <MESSAGE value="Workout Tracking Using Google Sheets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Workout Tracking Using Google Sheets" />
+    <MESSAGE value="Flight Club with SMS and Email letter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flight Club with SMS and Email letter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
