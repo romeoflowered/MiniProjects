@@ -4,14 +4,178 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Personal Site (First HTML Site)">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/contact-me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/index.html" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="+">
+      <change afterPath="$PROJECT_DIR$/Update HTML Site/HTML - Personal Site/contact-me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update HTML Site/HTML - Personal Site/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update HTML Site/HTML - Personal Site/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Update HTML Site/HTML - Personal Site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_1/Day_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Band Name Generator/Band Name Generator(simple).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Band Name Generator/Band Name Generator(simple).py" beforeDir="false" afterPath="$PROJECT_DIR$/Band Name Generator(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/.idea/Day_10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/.idea/Day_10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/Day_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/.idea/Day_11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/.idea/Day_11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator with finctions(simple)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/Day_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_12/Day_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Number Guessing Game(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_12/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Number Guessing Game(simple)/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_13/Day_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Debbugging(learning)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_14/Day_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Higher Lower Game(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_14/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Higher Lower Game(simple)/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_14/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Higher Lower Game(simple)/game_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_15/Day_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_15/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine(simple)/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_16/Day_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine(OOP)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_16/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine(OOP)/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_16/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine(OOP)/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_16/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine(OOP)/money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17/Day_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Quiz(OOP)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Quiz(OOP)/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Quiz(OOP)/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Quiz(OOP)/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_18/Day_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle(GUI)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_18/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle(GUI)/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_19/Day_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Race(GUI)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_2/Day_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20-Day_21/Day20-Day21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Snake Game(GUI)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20-Day_21/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Snake Game(GUI)/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20-Day_21/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Snake Game(GUI)/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20-Day_21/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Snake Game(GUI)/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_22/Day_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Pong Game(GUI)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_22/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Pong Game(GUI)/ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_22/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Pong Game(GUI)/paddle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_22/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Pong Game(GUI)/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_23/Day_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Crossing Game(GUI)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_23/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Crossing Game(GUI)/car_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_23/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Crossing Game(GUI)/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_23/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle Crossing Game(GUI)/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Day_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Input/Letters/starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Input/Names/invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/Mail Merge Project Start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/Mail Merge Project Start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_24/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Files with Game Snake/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/50_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Learning CSV and Pandas with 50_state project/50_states.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/blank_states_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Learning CSV and Pandas with 50_state project/blank_states_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning CSV and Pandas with 50_state project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_26/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nato-Phonetic-Alphabet Project with Comprehension(list and dict)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_26/nato_phonetic_alphabet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Nato-Phonetic-Alphabet Project with Comprehension(list and dict)/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_27/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mile to Km Converter Project with args and kwargs/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_28/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pomodoro APP(GUI)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_28/tomato.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pomodoro APP(GUI)/tomato.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_29/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Building a Password Manager GUI App with Tkinter/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_29/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Building a Password Manager GUI App with Tkinter/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_29/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Building a Password Manager GUI App with Tkinter/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_3/Day_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Welcome to Treasure Island(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_30/Update NATO Alphabet/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Update Projects by using Exceptions and JSON files/Update NATO Alphabet/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_30/Update NATO Alphabet/nato_phonetic_alphabet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Update Projects by using Exceptions and JSON files/Update NATO Alphabet/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_30/Update Password Manager/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Update Projects by using Exceptions and JSON files/Update Password Manager/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_30/Update Password Manager/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Update Projects by using Exceptions and JSON files/Update Password Manager/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_30/Update Password Manager/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Update Projects by using Exceptions and JSON files/Update Password Manager/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_31/data/1000_english_words .csv" beforeDir="false" afterPath="$PROJECT_DIR$/Flash Card Project/data/1000_english_words .csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_31/images/card_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/Flash Card Project/images/card_back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_31/images/card_front.png" beforeDir="false" afterPath="$PROJECT_DIR$/Flash Card Project/images/card_front.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_31/images/right.png" beforeDir="false" afterPath="$PROJECT_DIR$/Flash Card Project/images/right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_31/images/wrong.png" beforeDir="false" afterPath="$PROJECT_DIR$/Flash Card Project/images/wrong.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_31/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flash Card Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_32/birthdays.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Send Email (smtplib) &amp; Manage Dates (datetime)/birthdays.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_32/letter_templates/letter_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Send Email (smtplib) &amp; Manage Dates (datetime)/letter_templates/letter_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_32/letter_templates/letter_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Send Email (smtplib) &amp; Manage Dates (datetime)/letter_templates/letter_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_32/letter_templates/letter_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Send Email (smtplib) &amp; Manage Dates (datetime)/letter_templates/letter_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_32/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Send Email (smtplib) &amp; Manage Dates (datetime)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_33/Overhead notiffier project/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/ISS Overhead Notifier/Overhead notiffier project/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_33/Overhead notiffier project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ISS Overhead Notifier/Overhead notiffier project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_33/kanye_quote/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/ISS Overhead Notifier/kanye_quote/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_33/kanye_quote/kanye.png" beforeDir="false" afterPath="$PROJECT_DIR$/ISS Overhead Notifier/kanye_quote/kanye.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_33/kanye_quote/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ISS Overhead Notifier/kanye_quote/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_34/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/API Practice - Creating a GUI Quiz App/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_34/images/false.png" beforeDir="false" afterPath="$PROJECT_DIR$/API Practice - Creating a GUI Quiz App/images/false.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_34/images/true.png" beforeDir="false" afterPath="$PROJECT_DIR$/API Practice - Creating a GUI Quiz App/images/true.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_34/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/API Practice - Creating a GUI Quiz App/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_34/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/API Practice - Creating a GUI Quiz App/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_34/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/API Practice - Creating a GUI Quiz App/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_34/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/API Practice - Creating a GUI Quiz App/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_35/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Send SMS/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_36/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stock Trading News Alert Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_37/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Habit Tracking Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_38/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Workout Tracking Using Google Sheets/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_39 - Day_40/data_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flight Club Project by using API 3 Sites/data_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_39 - Day_40/flight_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flight Club Project by using API 3 Sites/flight_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_39 - Day_40/flight_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flight Club Project by using API 3 Sites/flight_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_39 - Day_40/inner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flight Club Project by using API 3 Sites/inner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_39 - Day_40/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flight Club Project by using API 3 Sites/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_39 - Day_40/notification_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flight Club Project by using API 3 Sites/notification_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/.idea/Day_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock, Paper, Scissors(simple)/.idea/Day_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock, Paper, Scissors(simple)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/Day_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rock, Paper, Scissors(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_41/HTML - Personal Site/contact-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML - Personal Site/HTML - Personal Site/contact-me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_41/HTML - Personal Site/hobbies.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML - Personal Site/HTML - Personal Site/hobbies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_41/HTML - Personal Site/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/HTML - Personal Site/HTML - Personal Site/images/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_41/HTML - Personal Site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML - Personal Site/HTML - Personal Site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator Project(simple)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/.idea/Day_5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator Project(simple)/.idea/Day_5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator Project(simple)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator Project(simple)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator Project(simple)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator Project(simple)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/Day_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator Project(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Reeborg's World Maze(learning fun)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_6/.idea/Day_6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Reeborg's World Maze(learning fun)/.idea/Day_6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_6/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reeborg's World Maze(learning fun)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reeborg's World Maze(learning fun)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reeborg's World Maze(learning fun)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Reeborg's World Maze(learning fun)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_6/Day_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reeborg's World Maze(learning fun)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Rock, Paper, Scissors(simple)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/.idea/Day_7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/.idea/Day_7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock, Paper, Scissors(simple)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock, Paper, Scissors(simple)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rock, Paper, Scissors(simple)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/Day_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman(simple)/hangman_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/.idea/Day_8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/.idea/Day_8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/Day_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar Cipher(simple)/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/.idea/Day_9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/.idea/Day_9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/The Blackjack Project(simple)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/Day_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Secret Auction(simple)/art.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +194,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Day_16/Day_16.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Day_16/coffee_maker.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Day_16/menu.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Day_16/money_machine.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine(OOP)/coffee_maker.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine(OOP)/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine(OOP)/menu.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine(OOP)/money_machine.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -385,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664819609157</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="+">
+      <created>1664985277820</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1664985277820</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -403,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Turtle Racing" />
     <MESSAGE value="Snake Game" />
     <MESSAGE value="Pong" />
     <MESSAGE value="The Turtle Crossing Capstone Project" />
@@ -428,7 +598,8 @@
     <MESSAGE value="Workout Tracking Using Google Sheets" />
     <MESSAGE value="Flight Club with SMS and Email letter" />
     <MESSAGE value="Personal Site (First HTML Site)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Personal Site (First HTML Site)" />
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
