@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Flight Club with SMS and Email letter">
-      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/contact-me.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_41/HTML - Personal Site/index.html" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Personal Site (First HTML Site)">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/contact-me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_42/HTML - Personal Site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1/Day_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Band Name Generator/Band Name Generator(simple).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +54,18 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/roman/Documents/GitHub/100DaysOfCode/Day_41/HTML - Personal Site",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/roman/Documents/GitHub/100DaysOfCode/Day_42",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day_42" />
       <recent name="$PROJECT_DIR$/Day_41/HTML - Personal Site" />
       <recent name="$PROJECT_DIR$/Day_40" />
       <recent name="$PROJECT_DIR$/Day_39" />
       <recent name="$PROJECT_DIR$/Day_37" />
-      <recent name="$PROJECT_DIR$/Day_36" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day_41/HTML - Personal Site/images" />
@@ -375,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664791506559</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Personal Site (First HTML Site)">
+      <created>1664819609157</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1664819609157</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -393,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The Hirst Painting Project (GUI)" />
     <MESSAGE value="Turtle Racing" />
     <MESSAGE value="Snake Game" />
     <MESSAGE value="Pong" />
@@ -418,7 +427,8 @@
     <MESSAGE value="Habit Tracking Project" />
     <MESSAGE value="Workout Tracking Using Google Sheets" />
     <MESSAGE value="Flight Club with SMS and Email letter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flight Club with SMS and Email letter" />
+    <MESSAGE value="Personal Site (First HTML Site)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Personal Site (First HTML Site)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
