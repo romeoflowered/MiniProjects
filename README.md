@@ -1,1 +1,1 @@
-# 100DaysOfCode
+# I share learning Python and mini projects
