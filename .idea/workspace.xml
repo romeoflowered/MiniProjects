@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Mini Parser">
-      <change afterPath="$PROJECT_DIR$/The Musical Time Machine/main.py" afterDir="false" />
+    <list default="true" id="88658130-0efc-49fa-897f-255fb7122e72" name="Changes" comment="Very Hard(not end)">
+      <change afterPath="$PROJECT_DIR$/Selenium Webdriver Clicker/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The Musical Time Machine" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Webdriver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The Musical Time Machine/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Webdriver/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -429,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666199939454</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Very Hard(not end)">
+      <created>1666717848599</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1666717848599</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -458,7 +465,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update Snake Game and Project File Mail" />
     <MESSAGE value="US State Game CVS Data with Pandas Library" />
     <MESSAGE value="NATO Alphabet Project" />
     <MESSAGE value="Mile to Kilometers Converter Project" />
@@ -483,7 +489,8 @@
     <MESSAGE value="Update HTML Site" />
     <MESSAGE value="CSS Site CV" />
     <MESSAGE value="Mini Parser" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini Parser" />
+    <MESSAGE value="Very Hard(not end)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Very Hard(not end)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
